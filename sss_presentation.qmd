@@ -1,0 +1,411 @@
+---
+title: "How to Make Functionalist Arguments"
+author: 
+  - name: Andrés Castro Araújo
+  - name: Nicolás Restrepo Ochoa
+institute: 
+  - Duke University
+  - University of California-Davis
+format: 
+  revealjs: 
+    theme: [default, templates/styles.scss]
+    smaller: true
+    fig-align: center
+    date: last-modified
+    date-format: long
+    slide-number: true
+csl: american-journal-of-sociology.csl
+bibliography: references.bib
+---
+
+# Introduction
+
+------------------------------------------------------------------------
+
+!["as dead as a dodo" [@barnes1995, 37]](images/dodo.png){fig-align="center" width="50%"}
+
+------------------------------------------------------------------------
+
+![](images/meme.jpg){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Race**
+
+> Race persists because it continues to be *politically useful.* It is therefore imperative to evaluate the political **function** of race at the present time and wage a political assault against it.
+>
+> ::: {style="text-align: right;"}
+> Dorothy @roberts2011 [pp. 79]
+> :::
+>
+> <br>
+>
+> Therein lies the secret of racial structures and racial inequality the world over. **They exist because they benefit members of the dominant race.**
+>
+> ::: {style="text-align: right;"}
+> @bonilla-silva2021 [pp. 9-10]
+> :::
+
+------------------------------------------------------------------------
+
+**Durable Inequality**
+
+> My counterargument is not only dynamic and relational, but also weakly functional. (Strong functional arguments say that social arrangements exist because they serve overarching systems. **Weak functional arguments say that social arrangements exist because they simultaneously serve particular actors and produce effects that in turn reproduce the social arrangements.**) Exploiters, runs the counterargument, expend some of the gains from exploitation on reproducing the command structure that maintains the exploiters' positions. Similarly, opportunity hoarders invest some of their gains in maintaining boundaries that separate them from other persons who lack access to the opportunities in question.
+>
+> ::: {style="text-align: right;"}
+> Charles @tilly2000 [pp. 784]
+> :::
+
+------------------------------------------------------------------------
+
+**Status Hierarchies**
+
+Status hierarchies as organizational solutions to problems of collective action.
+
+> At the very least, status hierarchies make group efforts more efficient by managing disagreements, redirecting competitive interests, and coordinating actions into a joint effort. \[...\] Because status is granted for *perceived* value to the group effort and perceptions can be biased or manipulated, some scholars have argued that status hierarchies are best understood as a "**boundedly functional**" organizational solution to the problems of cooperative goal attainment.
+>
+> ::: {style="text-align: right;"}
+> Cecilia @ridgeway2019 [pp. 13-4]
+> :::
+
+::: notes
+Status hierarchies make group efforts more **efficient** by managing disagreements, redirecting competitive interests, and coordinating actions into a joint effort.
+:::
+
+------------------------------------------------------------------------
+
+![*Maybe I am a monster.*](images/monster.jpg){fig-align="center"}
+
+## Content
+
+::: columns
+::: {.column width="50%"}
+Part I
+
+-   Disambiguation
+
+Part II
+
+-   Etiological Arguments
+
+-   Systemic Arguments
+
+-   Path-Dependence
+:::
+
+::: {.column width="50%" style="font-size: 0.75em;"}
+::: {style="text-align: right;"}
+*One thing is sure, for sociology to accept that no functionalist arguments work is like cutting off one’s nose to spite one’s face.*
+
+*— Mary Douglas*
+:::
+:::
+:::
+
+Conclusion
+
+-   Sociologists should be able make "functionalist" arguments without transparently and without ever feeling obligated to talk about Talcott Parsons.
+
+-   Embrace it, use it to make your arguments stronger.
+
+::: notes
+This paper introduces the necessary vocabulary we need to talk transparently about functions without committing oneself to any substantive theoretical program.
+:::
+
+# Summary
+
+------------------------------------------------------------------------
+
+![](images/fig-typology2.png){fig-align="center"}
+
+# Functions
+
+::: notes
+What does it mean to describe something as having a “function” or serving a “purpose”?
+:::
+
+## Philosophical Distinction
+
+</br>
+
+::: columns
+::: {.column width="50%"}
+**Proper Functions**
+
+-   why-is-it-there questions
+
+-   etiological arguments [@wright1973]
+
+-   *backward-looking* (or historic)
+
+-   Example: Max Weber on the proliferation of bureaucracies
+:::
+
+::: {.column width="50%"}
+**Role Functions**
+
+-   how-does-it-work questions
+
+-   systemic arguments [@cummins1975]
+
+-   *inward-looking* (or constitutive)
+
+-   Example: Emile Durkheim on the effects of the division of labor
+:::
+:::
+
+<aside>
+
+@millikan1989, @neander1991, @craver2013a, @godfrey-smith1993, @kitcher1993 </asie>
+
+::: notes
+-   Sociologists tend to conflate both senses of the word “function” in everyday practice, which is an important source of confusion.
+
+-   The very meaning of the word “function” depends on the argument we are trying to make.
+:::
+
+# Proper Functions (or Selected Effects)
+
+------------------------------------------------------------------------
+
+## Proper Functions
+
+::: {style="text-align: center;"}
+$X$[^1] is there because it does $\phi$[^2]
+:::
+
+[^1]: a belief, a behavior, an artifact, an organization, an institution
+
+[^2]: solves a problem, brings upon a reward, increases the average fitness of a population
+
+*A certain kind of history...*
+
+. . .
+
+::: incremental
+**Selection mechanism:**
+
+-   Foresight (aka intentional design)
+
+-   Learning
+
+-   Differential survival (aka natural selection)
+:::
+
+. . .
+
+**Be careful:**
+
+::: {style="text-align: center;"}
+No selection mechanism == Circular reasoning
+:::
+
+::: notes
+Selected Effects, Adaptations, Kludges
+
+Intuitively, an adaptation can be defined as any feature that looks as if it was the product of intentional design.
+
+What is average fitness? Reproductive success mostly.
+:::
+
+## History of Selection
+
+::: incremental
+-   Any history of selection is simultaneously a history of replication or reproduction (contingent upon "success" or "fitness").
+
+-   Unlike proper functions grounded on natural selection, various historical processes of social selection involve at least some amount of deliberation (or foresight).
+
+-   $X$ if often best described as a “kludge,” selected not for its optimality or superiority but because it satisficed (was good enough) for the purposes at hand.
+
+-   Arguments grounded on intentional design (or "manifest functions") have a lower burden of proof.
+
+-   Human goals and problems have a history of their own.
+:::
+
+::: notes
+Human goals and purposes have a history of their own, a point that was emphasized by early discussions in organizational sociology about goal-displacement (Merton 1968, p. 253) and co-optation (Selznick 1949). More recent discussions of means-ends decoupling—i.e., when organizations pursue activities that are weakly linked to their intended goals (Bromley and Powell 2012)—also pose challenges for etiological stories based on human design.
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+![](images/clipboard-1673388334.png)
+:::
+
+::: {.column .incremental width="50%"}
+**Deceptively simple!**
+
+-   Re-purposing is more common in the realm of artifacts
+
+-   Reproduction may be contingent to some extent on *perceived* success, not necessarily *real* success (cf. neoinstitutionalism)
+
+-   Different criteria for success (e.g., convenience, aesthetics, performance)
+
+-   The artifact may precede the problem—e.g., redefinition of success via the redefinition of a problem [@pinch1984]
+
+-   Problems also have a history of their own!
+:::
+:::
+
+::: notes
+The functions we ascribe to artifacts typically describe answers to questions like “What is that for?” or “What is that?” and these answers “are often reflected in our common names for things—for example, vegetable peeler, light switch, driveway, screwdriver, soap dish, clothes hanger, bookmark, and so on” (Preston 1998, p. 243).
+
+...if the connection between human intention and an artifact’s history of selection is in reality often tenuous, we should have more reason to believe that this should also be the case for institutions, organizations, and other social phenomena.
+:::
+
+## Models of Generalized Targets
+
+*Purposefully a-historical*
+
+::: columns
+::: {.column .incremental width="50%"}
+-   The *origins* of
+
+    -   **conventions** as spontaneous solutions to coordination problems
+
+    -   **categorical inequality** as responses to coordination and bargaining games
+
+    -   **status hierarchies** as solutions to problems of cooperative goal attainment
+
+```{=html}
+<!-- -->
+```
+-   Try to isolate causal mechanisms instead of offering a more concrete history of selection.
+
+-   Incorporate arbitrariness and path-dependence
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-693838785.png){width="80%"}
+:::
+:::
+
+::: notes
+THESE ARE ALL VERY ABSTRACT. STATUS HIERARCHIES, BUT NOT *THAT* INSTANCE OF A STATUS HIERARCHY!
+:::
+
+# Role Functions
+
+------------------------------------------------------------------------
+
+## Role Functions
+
+The role function ( $\phi$ ) of $X$ is its causal contribution to some higher level phenomenon, for which $X$ is best described as a "component part."
+
+. . .
+
+::: incremental
+Here, functional ascription is a matter of perspective:
+
+-   *choose* a containing system $S$
+
+-   come up with an *analytical account* about how the component parts of $S$ are arranged
+:::
+
+. . .
+
+Here, "systems" (or "wholes") are explained in terms of the *organized activities* of their *component parts*.
+
+<aside>@craver2013a, @cummins1975</aside>
+
+::: notes
+The goal is to find a set of entities and activities, to describe how they are organized together, and to show that when they are organized together just so, they produce the phenomenon one is trying to explain” (Craver 2013, p. 65).
+:::
+
+## Complex Capacity
+
+::: columns
+::: {.column .incremental width="40%"}
+Concrete examples:
+
+-   a government's capacity to surveil
+
+-   an army’s capacity to destroy
+
+-   a group’s capacity to enforce norms
+
+-   the body's capacity to deliver oxygen and nutrients to cells
+:::
+
+::: {.column width="60%"}
+Abstract: ![](images/clipboard-3201420269.png){fig-align="center" width="100%"}
+:::
+:::
+
+::: notes
+The circulatory system ( $S$ ) delivers oxygen and nutrients to cells ( $\psi$ ), a capacity we then seek to explain in terms of the organized activities of its component parts ( $A$ ): the heart pumping ( $X_1 \phi_1$ ) the kidney filtering ( $X_2 \phi_2$ ), the venous valves regulating the blood's direction of flow ( $X_3\phi_3$ ), and so on.
+:::
+
+------------------------------------------------------------------------
+
+![](images/clipboard-3869112204.png)
+
+<aside>
+
+The contribution of $X$ cannot be understood without reference to the properties (activities, functions) of other interacting parts.
+
+</aside>
+
+::: notes
+Fingerprints contribute to the overall surveillance capacity of law-enforcement organizations insofar as these organizations also have an infrastructure that collects, stores, and retrieves them—i.e., their contribution cannot be understood without reference to the properties of other interacting parts. But the “function” of fingerprints in this system does not have a history of selection. Fingerprints themselves do not exist for the sake of surveillance systems.
+
+The capacity of fingerprints to contribute to larger surveillance systems may be better characterized as an exaptation—i.e., traits designed for some other purpose (or no purpose at all) often get co-opted to serve new purposes.
+:::
+
+## Maintenance and Reproduction
+
+::: columns
+::: {.column width="50%"}
+![](images/clipboard-650679084.png)
+
+::: {style="font-size: 0.8em;"}
+There is a great deal of ambiguity here with regards to "proper" and "role" functions. Sometimes they coincide, but the explanatory project is still quite different.
+:::
+:::
+
+::: {.column width="50%"}
+A system's capacity for *self-reproduction* or *self-correction.*
+
+-   Ascribing a function to some $X$ is to explain its causal contribution to the *maintenance* of some system.
+
+-   Negative feedback loops (or circular causality)
+
+-   Cybernetics and control systems [@robinson2007]
+
+-   *reproduction, stability, equilibrium, homeostasis*
+:::
+:::
+
+# Path Dependence
+
+## A Two-Step Process
+
+Path-dependent arguments break down historical explanations into two causal components.
+
+1.  a historical cause (or "critical juncture")
+2.  a prolonged stable trajectory or a "mechanism of reproduction"
+
+. . .
+
+This allows for a great deal of *historical contingency*
+
+<aside>
+
+@mahoney2000, @pierson2011
+
+</aside>
+
+## Main Takeaways
+
+-   This is not a *bringing back* sorta thing.
+
+-   This is not a *gotcha* sorta thing.
+
+-   It's a much better idea to conceptualize functionalism as a *form of argument* than as a *substantive* theory of society.
+
+-   Sociologists should be able make "functionalist" arguments transparently and without ever feeling obligated to talk about Talcott Parsons.
+
+# Thank You
+
+# References

@@ -1,0 +1,34 @@
+
+/*-- scss:defaults --*/
+
+@import url('https://www.cssfontstack.com/Optima');
+$optima-font: 'Optima', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+$fira-font: 'Fira Code', monospace; 
+
+$font-family-sans-serif: $optima-font;
+$font-family-monospace: $fira-font; 
+$presentation-heading-font: "Crimson Text", serif !default;
+
+$presentation-font-size-root: 30px;
+$presentation-h1-font-size: 3em;
+$presentation-line-height: 1.5;
+
+$link-color: #DC143C;
+$code-block-bg: #F4F4F4;
+$presentation-heading-color: #4C4C4C !default;
+$body-color: #4C4C4C;
+
+/*-- scss:rules --*/
+
+.quarto-title-authors {
+  padding-top: 15%;
+  font-size: 1.5em;
+}
+
+.date {
+  padding-top: 10%;
+  font-size: 0.8em;
+  font-size: 1.5em;
+}
